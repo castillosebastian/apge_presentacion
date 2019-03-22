@@ -18,3 +18,10 @@ Presentaciones JUSTAT
 
 + Reporte de indicadores estadísticos calculadas a partir de sus datos, y 
 + Índice de calidad de los datos primarios (registrados en el Lex-Doctor).
+
+Presentaciones JUSTAT
+========================================================
+
+Ejemplo: 
++ AUDIC_FEB19_jdocco0200pna_prueba1 (OK)    
++ AUDIC_FEB19_jdocco0200pna_prueba2 (ERRORES)   
