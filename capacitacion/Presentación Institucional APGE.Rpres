@@ -26,7 +26,7 @@ APGE - Antecedentes
 
 APGE - Sistema de Estadística Pública Judicial
 ========================================================
-[Nuevo modelo estadístico](http://rstudio.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/PAGINAWEB%20-%20Nuevo%20Modelo%20de%20Procesos%20Estad%C3%ADsticos%20.pdf) integrado por un conjunto de operaciones diseñadas e implementadas por el APGE. Este modelo constituye un sistema coherente de definiciones sustantivas, metodologías, procedimientos y herramientas dirigido a la producción de información de calidad para consulta pública.
+[Nuevo modelo estadístico (173*38*18c)](http://justat.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/PAGINAWEB%20-%20Nuevo%20Modelo%20de%20Procesos%20Estad%C3%ADsticos%20.pdf) integrado por un conjunto de operaciones diseñadas e implementadas por el APGE. Este modelo constituye un sistema coherente de definiciones sustantivas, metodologías, procedimientos y herramientas dirigido a la producción de información de calidad para consulta pública.
 
 APGE - Publicidad 
 ========================================================
@@ -35,13 +35,17 @@ APGE - Publicidad
 + [Procesamiento](https://bitbucket.org/apgye/apgyeoperationsjuser/src/master/R/)
 
 Productos: 
-+ [boletin civil](http://rstudio.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/Boletin_Mensual_Civil_febabril2019.pdf)
-+ [boletin penal](http://rstudio.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/Boletin_Mensual_Penal_febabril2019.pdf)
++ [Boletín indicadores no penales](http://justat.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/Boletin_Mensual_Civil_febabril2019.pdf) y [Boletín indicadores penales](http://justat.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/Boletin_Mensual_Penal_febabril2019.pdf)
++ [Tablero](https://justat.jusentrerios.gov.ar/tablero/)
++ Informes Ad-Hoc
 
 APGE - Sistema: JUSTAT (en desarrollo)
 ========================================================
 
-[JUSTAT](http://rstudio.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/JUSTAT_tecnolog%C3%ADas.png)
++ [JUSTAT](http://justat.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/JUSTAT_tecnolog%C3%ADas.png)
++ software libre
++ statistical framework
++ agnóstico BD
 
 APGE - JUSTAT_Módulos
 ========================================================
@@ -80,9 +84,9 @@ APGE - JUSTAT_Módulo_Informes
 ========================================================
 Informe Justicia de Paz: hacia la redistribución de competencia   
 
-+ [Causas_iniciadas_Paz_2018](http://rstudio.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/graf_inic_paz_2018.html) 
-+ [Causas_iniciadas_Paz1C](http://rstudio.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/Inic_1c_xgrupo.html) 
-+ [Escenario Redistribucion](http://rstudio.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/escenario_redistribucion.html)    
++ [Causas_iniciadas_Paz_2018](http://justat.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/graf_inic_paz_2018.html) 
++ [Causas_iniciadas_Paz1C](http://justat.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/Inic_1c_xgrupo.html) 
++ [Escenario Redistribucion](http://justat.jusentrerios.gov.ar:8787/files/apge_presentacion/capacitacion/materiales/escenario_redistribucion.html)    
 
 Modelo Parametrizado
 
@@ -93,6 +97,10 @@ APGE - JUSTAT_Módulo_Tableros
 
 APGE
 ========================================================
++ Emilce Leones
++ Marcos Londero
++ Sebastián Castillo
+
 Gracias
 
 Área de Planificación Gestión y Estadística
