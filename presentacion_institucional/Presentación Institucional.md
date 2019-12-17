@@ -54,7 +54,7 @@ APGE Camino Difícil: Sistema de Estadística Pública Judicial del STJER + JUST
 + [GREP-JUFEJUS Argentina](http://www.jufejus.org.ar/index.php/2013-04-29-21-18-54/estadisticas), 2010 +: Código de Buenas Prácticas de las Estadísticas Judiciales
 
 
-APGE Tableros de Estadística
+APGE JUSTAT:Tableros de Estadística
 ========================================================
 
 + [https://tablero.jusentrerios.gov.ar/](https://tablero.jusentrerios.gov.ar/)   
@@ -103,7 +103,7 @@ APGE - Próximos Pasos
 + Fortalecimiento Institucional:
   - actualización reglamentaria, 
   - integración institucional (eg.PER), 
-  - nacionalización (eg.CIPECC),
+  - nacionalización (eg.CIPPEC),
   - comunicación pública "amigable",    
 + Fortalecimiento de las Capacidades Estadísticas
   - consolidar *arquitectura estadística judicial crítica*,   
@@ -113,14 +113,14 @@ APGE - Próximos Pasos
   - integración de Bases Datos    
   - desarrollo de Productos (T y B).
 
-APGE - Próximo Gran Paso? inteligencia artificial 
+APGE - Próximo Gran Paso? Convenio sobre Inteligencia Artificial 
 ========================================================
 <div>
 <img src="IA_justicia.jpg" width=1520 height=900>
 </div>
 
 + Estudio Viabilidad para implementar una línea de investigación en la aplicación de inteligencia artificial 
-para análisis de textos legales (UTN,Facultad Parana, Maestría Minería de Datos)
+para análisis de textos legales (UTN,Facultad Paraná, Maestría Minería de Datos)
 
 APGE - Agradecimientos
 ========================================================
